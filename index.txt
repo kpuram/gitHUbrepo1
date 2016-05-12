@@ -1,2 +1,2 @@
-From local 2
+From local and Master merged
 First from my local
